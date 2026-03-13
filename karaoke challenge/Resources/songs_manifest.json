@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sorry_not_sorry",
+    "title": "Sorry Not Sorry",
+    "artist": "Demi Lovato",
+    "audioFilename": "01 Sorry Not Sorry.mp3",
+    "lyricsFilename": "sorry_not_sorry_lyrics.json",
+    "stopTime": 43.0,
+    "expectedPhrase": "i'm not sorry",
+    "artworkFilename": null
+  }
+]

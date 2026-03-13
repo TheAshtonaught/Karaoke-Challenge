@@ -1,19 +1,4 @@
-//
-//  ViewController.swift
-//  karaoke challenge
-//
-//  Created by Ashton Morgan on 11/25/25.
-//
-
 import UIKit
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-
-
-}
-
+// Legacy placeholder kept for compatibility with older storyboard references.
+final class ViewController: UIViewController {}
